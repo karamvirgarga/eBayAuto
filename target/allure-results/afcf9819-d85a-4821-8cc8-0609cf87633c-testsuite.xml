@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1520498035197" stop="1520498123000" version="1.4.8">
+    <name>Default suite</name>
+    <title>Default suite : Default test[]</title>
+    <test-cases>
+        <test-case start="1520498058142" stop="1520498095151" status="passed">
+            <name>validateLogin[nikhil.forever19@gmail.com,test1234]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="38293@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520498058142" stop="1520498095151" status="passed">
+            <name>validateLogin[nikhil.forever19@gmail.com,test1234]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="38293@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520498095236" stop="1520498122999" status="broken">
+            <name>validateSearchItem</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="38293@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520498095236" stop="1520498122999" status="broken">
+            <name>validateSearchItem</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="38293@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520498035197" stop="1520498123000" status="broken">
+            <name>Default suite</name>
+            <title>Default suite</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

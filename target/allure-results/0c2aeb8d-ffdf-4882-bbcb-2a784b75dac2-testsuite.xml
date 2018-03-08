@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1520434239823" stop="1520434351800" version="1.4.8">
+    <name>Default suite</name>
+    <title>Default suite : Default test[]</title>
+    <test-cases>
+        <test-case start="1520434277333" stop="1520434351795" status="broken">
+            <name>validateLogin[uname1,test123]</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="31853@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520434277333" stop="1520434351795" status="broken">
+            <name>validateLogin[uname1,test123]</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="31853@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520434239823" stop="1520434351799" status="broken">
+            <name>Default suite</name>
+            <title>Default suite</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

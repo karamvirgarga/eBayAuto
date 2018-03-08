@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-java-adaptor-api-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-java-annotations-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-java-aspects-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-model-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-testng-adaptor-1.4.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-testng-adaptor-1.4.8-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/allure-testng-adaptor-1.4.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/ant-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/apache-ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/apache-ant-launcher-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/aspectjrt-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/aspectjweaver-1.8.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/aspectjweaver-1.8.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/aspectjweaver-1.8.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/common-lang3.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/commons-beanutils-core-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/FastInfoset-1.2.12.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/istack-commons-runtime-2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/java-client-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jaxb-core-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jaxb-impl-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jaxb2-basics-runtime-0.6.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/jsr173_api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/MobUtils-3.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/MobUtils.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/org-apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/pdfbox-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/properties-loader-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/selenium-server-standalone-3.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/snakeyaml-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/tika-core-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/Karam/PampersAutomation/lib/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 2/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chdsez97152lADM/Desktop/extentreports-java-3.0.6 3/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

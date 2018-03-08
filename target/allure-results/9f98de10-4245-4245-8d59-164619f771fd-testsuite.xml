@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1520361165478" stop="1520361317690" version="1.4.8">
+    <name>Default suite</name>
+    <title>Default suite : Default test[]</title>
+    <test-cases>
+        <test-case start="1520361184666" stop="1520361205942" status="passed">
+            <name>validateLogin</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361184666" stop="1520361205942" status="passed">
+            <name>validateLogin</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361206010" stop="1520361224763" status="passed">
+            <name>validateSearchItem</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361206010" stop="1520361224763" status="passed">
+            <name>validateSearchItem</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361224770" stop="1520361236744" status="passed">
+            <name>validateItemBought</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361224770" stop="1520361236744" status="passed">
+            <name>validateItemBought</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361236750" stop="1520361317672" status="passed">
+            <name>setPaymentDetails</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1520361236750" stop="1520361317672" status="passed">
+            <name>setPaymentDetails</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="CHDSEZ97152L.local"/>
+                <label name="thread" value="19521@CHDSEZ97152L.local.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
